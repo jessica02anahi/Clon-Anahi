@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(https://www.teknofilo.com/wp-content/uploads/2021/06/Netflix-1280x720.jpg);
+    background-repeat: repeat;
+    background-size: auto;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+h2 {
+    color: white;
+text-align: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+.logo{
+    max-width: 10px 20px;
+}
+
+img {
+    width: 150px;
+    height: auto;
+    }
+
+.mi-button {
+    background-color: red;
+    color: rgb(255, 255, 255);
+    padding: 5px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+select {
+    background-color: rgba(0, 8, 6, 0.363);
+    color: white;
+    padding: 4px 12px;
+    border-color: gray;
+    border-radius: 5px;
+}
+
+.Iniciar {
+background-color: red;
+color: white;
+padding: 4px 12px;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+
+input {
+    background-color: rgba(0, 8, 6, 0.363);
+    color: rgb(233, 220, 220);
+    padding: 5px 15px;
+    border-color: gray;
+    border-radius: 5px;
+}
